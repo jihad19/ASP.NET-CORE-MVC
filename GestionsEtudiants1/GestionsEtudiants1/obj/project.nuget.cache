@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3aqfCkgRomPvCMUcRY/JQyM/7hSFGYNzj11x/V+qY26kG0g7egppYM4gGnl4/VPFWszfcj+UeZThEJ5XwwKlsA==",
+  "dgSpecHash": "qkZW0+Q30kd2YRBcer6ufD1n2nZGAivLJ6FUioSjJVIie/1Fz1pGBjhEzATHy+UY4/eYW7AMHrmTuQXobVX4bg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Jihad\\Desktop\\C#\\GestionsEtudiants1\\GestionsEtudiants1\\GestionsEtudiants1.csproj",
+  "projectFilePath": "C:\\Users\\Jihad\\Documents\\GitHub\\ASP.NET-CORE-MVC\\GestionsEtudiants1\\GestionsEtudiants1\\GestionsEtudiants1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Jihad\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\3.1.11\\microsoft.aspnetcore.cryptography.internal.3.1.11.nupkg.sha512",
     "C:\\Users\\Jihad\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\3.1.11\\microsoft.aspnetcore.cryptography.keyderivation.3.1.11.nupkg.sha512",
